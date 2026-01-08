@@ -58,3 +58,7 @@ Importância da comparação temporal (Year over Year);
 Organização visual para facilitar a interpretação dos dados;
 
 Uso do Power BI como ferramenta de apoio à decisão.
+## 📷 Preview do Dashboard
+
+![City Life Dashboard](images/dashboard.png)
+
