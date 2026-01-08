@@ -58,7 +58,8 @@ Importância da comparação temporal (Year over Year);
 Organização visual para facilitar a interpretação dos dados;
 
 Uso do Power BI como ferramenta de apoio à decisão.
-## 📷 Preview do Dashboard
+- Preview do Dashboard - Power BI
+Abaixo está uma visão geral do dashboard desenvolvido para acompanhamento de performance de vendas.
 
 ![City Life Dashboard](images/dashboard.png)
 
